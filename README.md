@@ -26,6 +26,7 @@ Java With Music - 开源音乐软件
 -----
 - 解决上面这些问题，需要花费很多时间与精力。支持项目继续完善下去，你也可以贡献一份力量！
 - 有了打赏，也就会有更新的动力 : )
+	![](https://music.yiroote.com/images/priview/wechat.png)
 
 ### 更新日志
 -----
