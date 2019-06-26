@@ -5,6 +5,7 @@ Java With Music - 开源音乐软件
 ![主界面](http://music.yiroote.com/images/priview/player.png)
 ![播放列表](http://music.yiroote.com/images/priview/playList.png)
 ![搜索页](http://music.yiroote.com/images/priview/search.png)
+![歌单页](http://music.yiroote.com/images/priview/songList.png)
 
 ### 注意事项
 -----
@@ -14,6 +15,8 @@ Java With Music - 开源音乐软件
 ### 开发计划
 -----
 - 一键显示与隐藏功能
+- 界面图标设计
+- 系统任务栏捷径控制
 
 ### 更新日志
 -----
