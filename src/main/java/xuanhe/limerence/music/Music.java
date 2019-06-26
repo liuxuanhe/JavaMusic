@@ -1,12 +1,12 @@
 package xuanhe.limerence.music;
 
 import javafx.application.Application;
-import javafx.application.Platform;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.concurrent.Worker;
 import javafx.scene.Group;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;
@@ -32,10 +32,11 @@ public class Music extends Application {
      * 初始化primaryStage
      * iPhone X dp 375 x 800
      * */
-    Platform.setImplicitExit(false);
-    primaryStage.setMaxWidth(430);
-    primaryStage.setMaxHeight(630);
-//    primaryStage.setResizable(false);
+//    Platform.setImplicitExit(false);
+    primaryStage.getIcons().add(new Image("https://music.yiroote.com/favicon.jpg"));
+    primaryStage.setMaxWidth(420);
+    primaryStage.setMaxHeight(620);
+    primaryStage.setResizable(false);
 //    primaryStage.initStyle(StageStyle.UTILITY);
     primaryStage.setOpacity(0.98);
     primaryStage.show();
