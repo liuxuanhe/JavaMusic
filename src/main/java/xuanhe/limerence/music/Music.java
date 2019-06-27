@@ -33,7 +33,7 @@ public class Music extends Application {
      * iPhone X dp 375 x 800
      * */
 //    Platform.setImplicitExit(false);
-    primaryStage.getIcons().add(new Image("https://music.yiroote.com/favicon.jpg"));
+    primaryStage.getIcons().add(new Image("https://music.yiroote.com/images/priview/st32.png"));
     primaryStage.setMaxWidth(420);
     primaryStage.setMaxHeight(620);
     primaryStage.setResizable(false);
